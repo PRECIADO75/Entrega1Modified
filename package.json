@@ -1,0 +1,14 @@
+{
+  "name": "primeraentregamodificada",
+  "version": "1.0.0",
+  "description": "Muestra los resultados de la entrega 1 a traves de un navegador",
+  "main": "matricula.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "preciado75@yahoo.com",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}

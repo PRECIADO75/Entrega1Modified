@@ -1,0 +1,2 @@
+Para ver el listado de cursos ejecute: node matricula 
+Para inscribirse en un curso ejecute: node matricula inscribir --id=1 --nombre=Juan --cedula=123
